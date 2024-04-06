@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Clase\Centralita\bin\Debug\net8.0\centralita.exe
+C:\Users\Angel\Desktop\Clase\Centralita\bin\Debug\net8.0\centralita.deps.json
+C:\Users\Angel\Desktop\Clase\Centralita\bin\Debug\net8.0\centralita.runtimeconfig.json
+C:\Users\Angel\Desktop\Clase\Centralita\bin\Debug\net8.0\centralita.dll
+C:\Users\Angel\Desktop\Clase\Centralita\bin\Debug\net8.0\centralita.pdb
+C:\Users\Angel\Desktop\Clase\Centralita\obj\Debug\net8.0\centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Clase\Centralita\obj\Debug\net8.0\centralita.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Clase\Centralita\obj\Debug\net8.0\centralita.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Clase\Centralita\obj\Debug\net8.0\centralita.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Clase\Centralita\obj\Debug\net8.0\centralita.dll
+C:\Users\Angel\Desktop\Clase\Centralita\obj\Debug\net8.0\refint\centralita.dll
+C:\Users\Angel\Desktop\Clase\Centralita\obj\Debug\net8.0\centralita.pdb
+C:\Users\Angel\Desktop\Clase\Centralita\obj\Debug\net8.0\centralita.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Clase\Centralita\obj\Debug\net8.0\ref\centralita.dll
